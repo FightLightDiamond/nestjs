@@ -1,0 +1,5 @@
+interface Cat {
+
+}
+
+export {Cat}
